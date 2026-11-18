@@ -13,6 +13,10 @@ SaeGreen, template Blogger responsif untuk blog, katalog produk, dan landing pag
 - [Beli SaeGreen Premium](https://www.temablogger.com/2026/10/saegreen-template-blogger-blog-toko-landing-page.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
 
+## Dukung developer
+
+Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com/tema-blogger/saegreen-template-blogger-blog-toko-landing-page-free) dan bagikan tautannya kepada pengguna Blogger lain. Dukungan Anda membantu pengembangan tema gratis. Terima kasih sudah menghargai karya developer; semoga bermanfaat dan membawa berkah.
+
 ## Fitur tampilan
 
 - Blog, katalog produk, dan landing page
